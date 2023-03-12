@@ -1,8 +1,8 @@
 # nanoGPT
 The simple repository for training/finetuning medium-sized GPTs.
-
-This is one attempt to build a version of training and finetuning nano-GPT model. So, the popular ChatGPT is for your information introduced below as mentionaed in the [OpenAI](https://openai.com/) website.
 <img src ="https://github.com/Pushkar1853/nanoGPT/blob/1460e488f1049b8b151408db495531b1852fc41a/images/model.png"  style: height="600px" width="auto" align="right" >
+This is one attempt to build a version of training and finetuning nano-GPT model. So, the popular ChatGPT is for your information introduced below as mentionaed in the [OpenAI](https://openai.com/) website.
+
 * The dialogue format makes it possible for [ChatGPT](https://openai.com/blog/chatgpt) to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
 * ChatGPT is a sibling model to [InstructGPT](https://openai.com/blog/instruction-following/), which is trained to follow an instruction in a prompt and provide a detailed response.
 
@@ -38,11 +38,16 @@ Dependencies:
 - `pip install tqdm`
 
 ## Notebooks and codes:
+```
+notebooks/gpt-dev.ipynb
+codes/bigram.py
+codes/v2.py
+```
 
 ## Dataset
 
 ```
-[data/input.txt](https://github.com/Pushkar1853/nanoGPT/blob/1460e488f1049b8b151408db495531b1852fc41a/data/input.txt)
+data/input.txt
 ```
 
 ## Result Sample
