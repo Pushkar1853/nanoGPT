@@ -15,8 +15,11 @@ This whole notebook is based on the vital research paper :
 ## A message to the reader:
 
 * The architecture of the model followed is a Multi-Head Attention, but with only "Self-Attention" Layers, without the use of Cross Attention from the encoder.
+
 <img src ="https://github.com/Pushkar1853/nanoGPT/blob/1460e488f1049b8b151408db495531b1852fc41a/images/model2.png"  style: height="400px" width="auto" >
+
 * The paper followed the task of translation, thereby requiring the process of encoder and decoder.
+
 * Here, only the next predictions i.e. decoding layers are concerned, therefore, an extention of the Bigram Language Model from [makemore](https://github.com/Pushkar1853/makemore). Check out that as well.
 
 ## Methods
