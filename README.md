@@ -6,6 +6,7 @@ This is one attempt to build a version of training and finetuning nano-GPT model
 * The dialogue format makes it possible for [ChatGPT](https://openai.com/blog/chatgpt) to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
 * ChatGPT is a sibling model to [InstructGPT](https://openai.com/blog/instruction-following/), which is trained to follow an instruction in a prompt and provide a detailed response.
 
+
 ## What's the catch? 
 This whole notebook is based on the vital research paper : 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
