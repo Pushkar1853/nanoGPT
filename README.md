@@ -77,7 +77,8 @@ Hasting in a roseman.
 
 ## References
 
-* [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/pdf/2210.10760.pdf)
+* [Lectures and Repository of Andrej Karparthy's NanoGPT](https://github.com/karpathy/nanoGPT)
+* [Scaling Laws for Reward Model Overoptimizati on](https://arxiv.org/pdf/2210.10760.pdf)
 * [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
 
 
